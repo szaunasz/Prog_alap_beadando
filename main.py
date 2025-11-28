@@ -196,5 +196,5 @@ plt.tight_layout()
 # diagram megjelenítése
 plt.show()
 
-
+print("Program vége.")
 ## VÉGE ##
